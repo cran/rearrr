@@ -1,4 +1,14 @@
 
+# rearrr 0.3.2
+
+* Makes use of suggested packages conditional on their presence.
+
+* Makes testing conditional on the availability of `xpectr`.
+
+* Makes tests compatible with the upcoming release of `purrr v1`. (#1)
+
+* Fixes `tidyselect`-related warnings.
+
 # rearrr 0.3.1
 
 * Regenerates documentation to fix html5 problem.
