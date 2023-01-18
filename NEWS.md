@@ -1,4 +1,8 @@
 
+# rearrr 0.3.3
+
+* Makes tests compatible with `purrr v1.0.1`. (#2)
+
 # rearrr 0.3.2
 
 * Makes use of suggested packages conditional on their presence.
