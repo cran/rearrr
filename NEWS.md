@@ -1,4 +1,8 @@
 
+# rearrr 0.3.4
+
+* Updated documentation per CRAN requirements.
+
 # rearrr 0.3.3
 
 * Makes tests compatible with `purrr v1.0.1`. (#2)
