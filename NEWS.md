@@ -1,4 +1,10 @@
 
+# rearrr 0.3.5
+
+* Replaces use of `dplyr::all_equal()` with `all.equal()`.
+
+* Fixes test of `quantile_index()`.
+
 # rearrr 0.3.4
 
 * Updated documentation per CRAN requirements.
